@@ -15,7 +15,7 @@ It is an interactive and funny game where users watch a dialogue contest between
 - Loops and a custom block included to meet CS50 requirements.
 
 ### 🔗 Live Project:
-[Play on Scratch](https://scratch.mit.edu/projects/1188339576/)
+[Play on Scratch](https://scratch.mit.edu/projects/1188619652/editor)
 
 ---
 
