@@ -38,3 +38,8 @@ Calculates the minimum number of coins (quarters, dimes, nickels, pennies) for a
 - Writing and compiling C programs
 - Breaking problems into subproblems (functions)
 - Using CS50 library functions like `get_int`
+---
+
+## ✅ CS50 Check50 Status
+
+All three Week 1 projects — `hello`, `mario (less)`, and `cash` — passed 100% of test cases on CS50's automated checker (`check50`).
